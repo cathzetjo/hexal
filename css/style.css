@@ -1,6 +1,7 @@
 body {
     width: 1020px;
     color: #e0e0e0;
+    margin : 0 auto;
 }
 
 header {
@@ -564,10 +565,6 @@ a.href-contacts {
 
 a:hover.href-contacts {
     color: #2eb398;
-    font-size: 16px;
-    font-family: 'Lato-Bold';
-    line-height: 155%;
-    text-transform: none;
 }
 
 .copyRight {
